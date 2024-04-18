@@ -6,7 +6,7 @@ excerpt: 'In our research, we examined how externally applied electric fields af
 date: 2023-05-08
 venue: 'J. Chem. Phys.'
 paperurl: 'http://smaiti7.github.io/files/paper2.pdf'
-citation: 'Nibali, V. C.; Maiti, S.; Saija, F.; Heyden, M.; Cassone, G. &quot;Electric-field induced entropic effects in liquid water.&quot; <i>J. Chem. Phys.</i>. <b>2023</b>, 158, 184501.'
+citation: 'Nibali, V. C.; Maiti, S.; Saija, F.; Heyden, M.; Cassone, G. &quot;Electric-field induced entropic effects in liquid water.&quot; <i>J. Chem. Phys.</i> <b>2023</b>, 158, 184501.'
 ---
 
 Paper website link: https://pubs.aip.org/aip/jcp/article/158/18/184501/2889002/Electric-field-induced-entropic-effects-in-liquid
