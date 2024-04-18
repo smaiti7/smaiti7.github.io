@@ -9,4 +9,5 @@ paperurl: 'http://smaiti7.github.io/files/paper1.pdf'
 citation: "Roy, S.; Vemuri, V.; Maiti, S.; Manoj, K. S.; Subbarao, U.; Peter, S. C. &quot;Two Keggin-Based Isostructural POMOF Hybrids: Synthesis, Crystal Structure, and Catalytic Properties.&quot; <i>J. Chem. Phys.</i> <b>2018</b>, 57, 19, 12078–12092"
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Paper website link: https://pubs.acs.org/doi/abs/10.1021/acs.inorgchem.8b01631
+DOI: https://doi.org/10.1021/acs.inorgchem.8b01631

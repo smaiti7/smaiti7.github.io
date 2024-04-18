@@ -9,4 +9,5 @@ paperurl: 'http://smaiti7.github.io/files/paper2.pdf'
 citation: 'Nibali, V. C.; Maiti, S.; Saija, F.; Heyden, M.; Cassone, G. &quot;Electric-field induced entropic effects in liquid water.&quot; <i>J. Chem. Phys.</i>. <b>2023</b>, 158, 184501.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Paper website link: https://pubs.aip.org/aip/jcp/article/158/18/184501/2889002/Electric-field-induced-entropic-effects-in-liquid
+DOI: https://doi.org/10.1063/5.0139460
