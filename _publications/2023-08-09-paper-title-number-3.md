@@ -9,5 +9,5 @@ paperurl: "http://smaiti7.github.io/files/paper3.pdf"
 citation: "Maiti, S.; Heyden, M. &quot;Model-Dependent Solvation of the K-18 Domain of the Intrinsically Disordered Protein Tau.&quot; <i>J. Phys. Chem. B</i>. <b>2023</b>, 127, 33, 7220–7230."
 ---
 
-Paper website link: https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.3c01726
-DOI: https://doi.org/10.1021/acs.jpcb.3c01726
+Paper website link: [https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.3c01726](https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.3c01726)
+DOI: [https://doi.org/10.1021/acs.jpcb.3c01726](https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.3c01726)
