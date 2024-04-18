@@ -9,7 +9,7 @@ main:
     url: /files/SM_CV_pub.pdf
 
   - title: "Publications"
-    url: https://scholar.google.com/citations?user=oG3yqzEAAAAJ&hl=en
+    url: /publications/
 
   # - title: "Publications"
   #  # url: /publications/
