@@ -9,8 +9,11 @@ main:
    url: /files/SM_CV_pub.pdf
 
   - title: "Publications"
-   # url: /publications/
    url: https://scholar.google.com/citations?user=oG3yqzEAAAAJ&hl=en
+
+  # - title: "Publications"
+  #  # url: /publications/
+  #  url: https://scholar.google.com/citations?user=oG3yqzEAAAAJ&hl=en
 
   # - title: "Talks"
   #   url: /talks/    
