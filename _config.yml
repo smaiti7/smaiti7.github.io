@@ -24,8 +24,7 @@ author:
   avatar           : "SMprofile2.png"
   name             : "Sthitadhi Maiti"
   pronouns         : # example: "she/her"  
-  bio              : "Computational Chemistry Ph.D., 
-  Classical Molecular Dynamics Simulations & Enhanced Sampling"
+  bio              : "Computational Chemistry Ph.D., Classical Molecular Dynamics Simulations, Protein Dynamics, Enhanced Sampling & Free Energy Calculations"
   location         : "Tempe, Arizona"
   employer         : "Arizona State University"
   uri              : # URL
@@ -50,14 +49,15 @@ author:
   # Social media
   bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
+  linkedin         : "sthitadhimaiti"
   flickr           : # Username
+  twitter          : "sthitadhi_m" # Username for X / Twitter
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
   instagram        : "sthito_wonderer"
   lastfm           : # Username
-  linkedin         : "sthitadhimaiti"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -65,7 +65,6 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "sthitadhi_m" # Username for X / Twitter
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
