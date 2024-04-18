@@ -24,7 +24,7 @@ author:
   avatar           : "SMprofile2.png"
   name             : "Sthitadhi Maiti"
   pronouns         : # example: "she/her"  
-  bio              : "Computational Chemistry Ph.D., Classical Molecular Dynamics Simulations, Enhanced Sampling & Free Energy Calculations"
+  bio              : "Computational Chemistry Ph.D., Classical Molecular Dynamics Simulations & Enhanced Sampling"
   location         : "Tempe, Arizona"
   employer         : "Arizona State University"
   uri              : # URL
@@ -45,13 +45,14 @@ author:
   github           : "smaiti7"
   kaggle           : "smaiti7" 
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  linkedin         : "sthitadhimaiti"
+  twitter          : "sthitadhi_m" # Username for X / Twitter
+
 
   # Social media
   bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
-  linkedin         : "sthitadhimaiti"
   flickr           : # Username
-  twitter          : "sthitadhi_m" # Username for X / Twitter
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
