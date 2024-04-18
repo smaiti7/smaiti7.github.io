@@ -6,7 +6,7 @@ excerpt: "In this study, we synthesized two novel isostructural twin hybrids, Co
 date: 2018-09-18
 venue: 'Inorg. Chem.'
 paperurl: 'http://smaiti7.github.io/files/paper1.pdf'
-citation: "Roy, S.; Vemuri, V.; Maiti, S.; Manoj, K. S.; Subbarao, U.; Peter, S. C. &quot;Two Keggin-Based Isostructural POMOF Hybrids: Synthesis, Crystal Structure, and Catalytic Properties.&quot; <i>Inorg. Chem.</i> <b>2018</b>, 57, 19, 12078–12092"
+citation: "Roy, S.; Vemuri, V.; Maiti, S.; Manoj, K. S.; Subbarao, U.; Peter, S. C. &quot;Two Keggin-Based Isostructural POMOF Hybrids: Synthesis, Crystal Structure, and Catalytic Properties.&quot; <i>Inorg. Chem.</i> <b>2018</b>, 57, 19, 12078–12092."
 ---
 
 Paper website link: https://pubs.acs.org/doi/abs/10.1021/acs.inorgchem.8b01631
