@@ -7,9 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-👨‍💻🧬 I am a Ph.D. graduate student in Computational Chemistry from Arizona State University. My graduation will be in May, 2024.
+👨‍💻🧬 I am a Ph.D. graduate student in Computational Chemistry from Dr. Matthias Heyden's research group at Arizona State University. I am set to graduate in May 2024.
 
-🧪 
+🧪  My research focuses on the application of classical molecular dynamics simulations and umbrella sampling to investigate solvation and free energies, specifically folding and binding, of intrinsically disordered proteins (IDPs).
+
+🔭  My future research interest now extends to computational drug design, integrating my expertise in enhanced sampling, molecular dynamics simulations, and data analysis to explore new challenges and innovate methods.
+
+💻📚 I am also eager to explore the use of machine learning techniques to streamline the drug discovery process and boost the research and development efforts in the pharmaceutical sector.
 
 A data-driven personal website
 ======
