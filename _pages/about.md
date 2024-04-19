@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hey there, I'm Sthitadhi (Sthito)!👋"
+title: "Hey there, I'm Sthitadhi!👋"
 author_profile: true
 redirect_from: 
   - /about/
