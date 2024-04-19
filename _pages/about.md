@@ -42,7 +42,7 @@ Advanced Python: Language Features
 ------
 LinkedIn
 Issued Aug 2023
-Certificate url: [https://www.linkedin.com/learning/certificates/99cb4dad747ef06b01239255cbc730baa9c31494db4d203fdebf44b13a78be8c](https://www.linkedin.com/learning/certificates/99cb4dad747ef06b01239255cbc730baa9c31494db4d203fdebf44b13a78be8c)
+Certificate url: [Link](https://www.linkedin.com/learning/certificates/99cb4dad747ef06b01239255cbc730baa9c31494db4d203fdebf44b13a78be8c)
 Skills developed: 
 Programming language skills- Python.
 Language Features- Lamda Functions, Python Comprehensions (List, Dictionary and Set Comprehensions), Classes and Objects, Structural Pattern Matching
