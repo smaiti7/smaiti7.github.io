@@ -9,17 +9,80 @@ redirect_from:
 
 👨‍💻🧬 I am a Ph.D. graduate student in Computational Chemistry from Dr. Matthias Heyden's research group at Arizona State University. I am set to graduate in May 2024.
 
-🧪  My research focuses on the application of classical molecular dynamics simulations and umbrella sampling to investigate solvation and free energies, specifically folding and binding, of intrinsically disordered proteins (IDPs).
+🔬  My research focuses on the application of classical molecular dynamics simulations and umbrella sampling to investigate solvation and free energies, specifically folding and binding, of intrinsically disordered proteins (IDPs).
 
-🔭  My future research interest now extends to computational drug design, integrating my expertise in enhanced sampling, molecular dynamics simulations, and data analysis to explore new challenges and innovate methods.
+🔭  My future research interests now extend to computational drug design, integrating my expertise in enhanced sampling, molecular dynamics simulations, and data analysis to explore new challenges and innovate methods.
 
 💻📚 I am also eager to explore the use of machine learning techniques to streamline the drug discovery process and boost the research and development efforts in the pharmaceutical sector.
 
-A data-driven personal website
+Professional Courses and Certifications
+======
+
+High-Throughput Virtual Screening for Hit Finding and Evaluation
+------
+Schrödinger
+Issued Feb 2024
+Credential ID: fr06qf4f3q
+Certificate url: [https://courses.schrodinger.com/certificates/fr06qf4f3q](https://courses.schrodinger.com/certificates/fr06qf4f3q)
+Skills developed: 
+Techniques- Absolute Binding FEP, Structure and Ligand Based Virtual Screening, Docking, Shape Screening, Active Learning, Mixed Solvent Molecular Dynamics (MxMD).
+Software skills- Schrödinger Maestro
+
+Introduction to Molecular Modeling in Drug Discovery
+------
+Schrödinger
+Issued Nov 2023
+Credential ID: jontoiwo1u
+Certificate url: [https://courses.schrodinger.com/certificates/jontoiwo1u](https://courses.schrodinger.com/certificates/jontoiwo1u)
+Skills developed: 
+Techniques- Structure Based Virtual Screening, Docking, and R-group enumeration.
+Software skills- Schrödinger Maestro and Schrödinger LiveDesign.
+
+Advanced Python: Language Features
+------
+LinkedIn
+Issued Aug 2023
+Certificate url: [https://www.linkedin.com/learning/certificates/99cb4dad747ef06b01239255cbc730baa9c31494db4d203fdebf44b13a78be8c](https://www.linkedin.com/learning/certificates/99cb4dad747ef06b01239255cbc730baa9c31494db4d203fdebf44b13a78be8c)
+Skills developed: 
+Programming language skills- Python.
+Language Features- Lamda Functions, Python Comprehensions (List, Dictionary and Set Comprehensions), Classes and Objects, Structural Pattern Matching
+
+
+Teaching
+======
+
+2016(FALL): Graduate Teaching Assistant, CHM 113 Labs, General Chemistry
+2017(SPR) – 2018(SPR): Graduate Teaching Assistant, CHM 116 Labs, General Chemistry
+2018(SUMMER): Graduate Teaching Assistant, CHM 116 Labs, General Chemistry
+2018(FALL) – 2019(SPR): Graduate Teaching Assistant, CHM 116 Labs, General Chemistry
+2021(FALL) – 2024(SPRING): Graduate Teaching Assistant, BCH 341 & CHM 114 OL, Biochemistry & Chemistry
+CHM 113, 116: General Chemistry Labs with 25 students per lab. Taught 4 different batches of students per week.
+BCH 341: Physical Chem with Bio Focus. About 150 students per semester. Had to interact one-on-one during weekly office hours and revision days.
+CHM 114 OL: Online lab for General Chemistry for Engineers with about 60 students per TA. Had to grade reports, homework, and answer questions online.
+
+
+Community Service & Extracurricular Involvement
+======
+
+I served as a Grand Award Judge in Chemistry at the Intel Science and Engineering Fair (ISEF) 2019 in Phoenix, organized by the Society for Science & the Public, on May 14th and 15th, 2019.
+
+In September 2018, I volunteered with the National Speleological Society and a group of ASU students for the Peppersauce Cave graffiti removal and restoration project in Arizona, from September 21-23. [Link](https://static.secure.website/wscfus/8864938/8467152/peppersauce-cave-restoration-report-sept-21-23-2018.pdf)
+
+From August 2018 to March 2020, I was part of the ASU Outreach Choir, performing as a singer at Phoenix-area retirement homes three times each semester.
+
+From August 2022 to December 2023, I served as the Chief of Safety for the Amateur Radio Club at ASU (W7ASU), where I oversaw operational safety during activities at one of Arizona State University's oldest Ham Radio clubs.
+
+I designed the new club logo for W7ASU, drawing inspiration from the previous design while incorporating my own creative ideas.
+
+
+
+
+<!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+
 
 Getting started
 ======
@@ -52,4 +115,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
