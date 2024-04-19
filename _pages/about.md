@@ -7,6 +7,10 @@ redirect_from:
   - /about.html
 ---
 
+<figure>
+  <img src="/images/TauK18.png" alt="K-18 domain of IDP Tau in aqueous solution -> 580,000 atoms" style="width:300px; float:right;">
+  <figcaption>K-18 domain of IDP Tau in aqueous solution -> 580,000 atoms</figcaption>
+</figure>  
 👨‍💻🧬 I am a Ph.D. graduate student in Computational Chemistry from Dr. Matthias Heyden's research group at Arizona State University. I am set to graduate in May 2024.
 
 🔬  My research focuses on the application of classical molecular dynamics simulations and umbrella sampling to investigate solvation and free energies, specifically folding and binding, of intrinsically disordered proteins (IDPs).
@@ -20,31 +24,31 @@ Professional Courses and Certifications
 
 High-Throughput Virtual Screening for Hit Finding and Evaluation
 ------
-Schrödinger
-Issued Feb 2024
-Credential ID: fr06qf4f3q
-Certificate url: [https://courses.schrodinger.com/certificates/fr06qf4f3q](https://courses.schrodinger.com/certificates/fr06qf4f3q)
-Skills developed: 
-Techniques- Absolute Binding FEP, Structure and Ligand Based Virtual Screening, Docking, Shape Screening, Active Learning, Mixed Solvent Molecular Dynamics (MxMD).
+Schrödinger  
+Issued Feb 2024  
+Credential ID: fr06qf4f3q  
+Certificate url: [https://courses.schrodinger.com/certificates/fr06qf4f3q](https://courses.schrodinger.com/certificates/fr06qf4f3q)  
+Skills developed:  
+Techniques- Absolute Binding FEP, Structure and Ligand Based Virtual Screening, Docking, Shape Screening, Active Learning, Mixed Solvent Molecular Dynamics (MxMD).  
 Software skills- Schrödinger Maestro
 
 Introduction to Molecular Modeling in Drug Discovery
 ------
-Schrödinger
-Issued Nov 2023
-Credential ID: jontoiwo1u
-Certificate url: [https://courses.schrodinger.com/certificates/jontoiwo1u](https://courses.schrodinger.com/certificates/jontoiwo1u)
-Skills developed: 
-Techniques- Structure Based Virtual Screening, Docking, and R-group enumeration.
+Schrödinger  
+Issued Nov 2023  
+Credential ID: jontoiwo1u  
+Certificate url: [https://courses.schrodinger.com/certificates/jontoiwo1u](https://courses.schrodinger.com/certificates/jontoiwo1u)  
+Skills developed:  
+Techniques- Structure Based Virtual Screening, Docking, and R-group enumeration.  
 Software skills- Schrödinger Maestro and Schrödinger LiveDesign.
 
 Advanced Python: Language Features
 ------
-LinkedIn
-Issued Aug 2023
-Certificate url: [Link](https://www.linkedin.com/learning/certificates/99cb4dad747ef06b01239255cbc730baa9c31494db4d203fdebf44b13a78be8c)
-Skills developed: 
-Programming language skills- Python.
+LinkedIn  
+Issued Aug 2023  
+Certificate url: [Link](https://www.linkedin.com/learning/certificates/99cb4dad747ef06b01239255cbc730baa9c31494db4d203fdebf44b13a78be8c)  
+Skills developed:  
+Programming language skills- Python.  
 Language Features- Lamda Functions, Python Comprehensions (List, Dictionary and Set Comprehensions), Classes and Objects, Structural Pattern Matching
 
 
