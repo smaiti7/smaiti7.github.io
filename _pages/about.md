@@ -7,15 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-.align-right {
-    float: right;
-    width: 300px;  /* Adjust width as necessary */
-}
-<figure class="align-right">
-  <img src="/images/TauK18.png" alt="K-18 domain of IDP Tau in aqueous solution -> 580,000 atoms" style="width: 100%;">
-  <figcaption style="text-align: center;">K-18 domain of IDP Tau in aqueous solution -> 580,000 atoms</figcaption>
-</figure>
 
+
+![K-18 domain of IDP Tau in aqueous solution](/images/TauK18.png){: .align-right width="300px"}
 👨‍💻🧬 I am a Ph.D. graduate student in Computational Chemistry from Dr. Matthias Heyden's research group at Arizona State University. I am set to graduate in May 2024.
 
 🔬  My research focuses on the application of classical molecular dynamics simulations and umbrella sampling to investigate solvation and free energies, specifically folding and binding, of intrinsically disordered proteins (IDPs).
