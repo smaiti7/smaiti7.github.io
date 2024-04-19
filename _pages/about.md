@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-![K-18 domain of IDP Tau in aqueous solution](/images/TauK18new.png){: .align-right width="300px"}
+![K-18 domain of IDP Tau in aqueous solution](/images/TauK18new.png){: .align-right width="300px"}  
 👨‍💻🧬 I am a Ph.D. graduate student in Computational Chemistry from Dr. Matthias Heyden's research group at Arizona State University. I am set to graduate in May 2024.
 
 🔬  My research focuses on the application of classical molecular dynamics simulations and umbrella sampling to investigate solvation and free energies, specifically folding and binding, of intrinsically disordered proteins (IDPs).
@@ -48,7 +48,7 @@ Issued Aug 2023
 Certificate url: [Link](https://www.linkedin.com/learning/certificates/99cb4dad747ef06b01239255cbc730baa9c31494db4d203fdebf44b13a78be8c)  
 Skills developed:  
 Programming language skills- Python.  
-Language Features- Lamda Functions, Python Comprehensions (List, Dictionary and Set Comprehensions), Classes and Objects, Structural Pattern Matching
+Language Features- Lambda Functions, Python Comprehensions (List, Dictionary and Set Comprehensions), Classes and Objects, Structural Pattern Matching.
 
 
 Teaching
