@@ -58,7 +58,7 @@ Teaching
 2017(SPR) – 2018(SPR): Graduate Teaching Assistant, CHM 116 Labs, General Chemistry.  
 2018(SUMMER): Graduate Teaching Assistant, CHM 116 Labs, General Chemistry.  
 2018(FALL) – 2019(SPR): Graduate Teaching Assistant, CHM 116 Labs, General Chemistry.  
-2021(FALL) – 2024(SPRING): Graduate Teaching Assistant, BCH 341 & CHM 114 OL, Biochemistry & Chemistry.
+2021(FALL) – 2024(SPR): Graduate Teaching Assistant, BCH 341 & CHM 114 OL, Biochemistry & Chemistry.
 
 CHM 113, 116: General Chemistry Labs with 25 students per lab. Taught 4 different batches of students per week.  
 BCH 341: Physical Chem with Bio Focus. About 150 students per semester. Had to interact one-on-one during weekly office hours and revision days.  
