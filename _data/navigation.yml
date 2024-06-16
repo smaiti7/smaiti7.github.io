@@ -2,11 +2,11 @@
 main:
   - title: "Resume"
    # url: /cv/
-    url: /files/SM_Resume_main.pdf
+    url: /files/SM-Resume-main.pdf
 
   - title: "CV"
    # url: /cv/
-    url: /files/SM_CV_main.pdf
+    url: /files/SM-CV-main.pdf
 
   - title: "Publications"
     url: /publications/
