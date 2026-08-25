@@ -12,7 +12,7 @@ redirect_from:
 ![K-18 domain of IDP Tau in aqueous solution](/images/TauK18new.png){: .align-right width="300px"}
 👨‍💻🧬 I am a computational biophysics postdoctoral researcher in the [Nanobiocomp group](https://www.nanobiocomp.com/home) at the Department of Physics, University of Genoa, Italy. I earned my Ph.D. in Computational Chemistry from Arizona State University, where I conducted my doctoral research in Dr. Matthias Heyden's group.
 
-🔬 My current postdoctoral research investigates interactions between lipid rafts and amyloid oligomers at neuronal membranes using multiscale molecular simulations. I conduct this work under the guidance of Dr. Davide Bochicchio and Prof. Giulia Rossi.
+🔬 My current postdoctoral research uses multiscale molecular dynamics simulations to investigate how foldable coarse-grained models of amyloid-β and other small proteins interact with cell membranes of varying lipid composition, including lipid rafts in neuronal membranes. I focus on their membrane-binding mechanisms and their potential to induce membrane pore formation. I conduct this work under the guidance of Dr. Davide Bochicchio and Prof. Giulia Rossi.
 
 🧪 I perform **atomistic and coarse-grained molecular dynamics simulations** of intrinsically disordered proteins and **membrane systems** using **GROMACS** and the **Martini force field**. I have also developed and validated a novel **collective variable (CV)** in **PLUMED** to quantify alpha-helical and beta-sheet content in coarse-grained simulations of amyloid beta-42. The CV can be adapted to other foldable coarse-grained protein models.
 
