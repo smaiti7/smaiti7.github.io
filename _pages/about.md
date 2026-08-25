@@ -10,13 +10,15 @@ redirect_from:
 
 
 ![K-18 domain of IDP Tau in aqueous solution](/images/TauK18new.png){: .align-right width="300px"}
-👨‍💻🧬 I am a Ph.D. graduate student in Computational Chemistry from Dr. Matthias Heyden's research group at Arizona State University. I am set to graduate in May 2024.
+👨‍💻🧬 I am a computational biophysics postdoctoral researcher in the [Nanobiocomp group](https://www.nanobiocomp.com/home) at the Department of Physics, University of Genoa, Italy. I earned my Ph.D. in Computational Chemistry from Arizona State University, where I conducted my doctoral research in Dr. Matthias Heyden's group.
 
-🔬  My research focuses on the application of classical molecular dynamics simulations and umbrella sampling to investigate solvation and free energies, specifically folding and binding, of intrinsically disordered proteins (IDPs).
+🔬 My current postdoctoral research investigates interactions between lipid rafts and amyloid oligomers at neuronal membranes using multiscale molecular simulations. I conduct this work under the guidance of Dr. Davide Bochicchio and Prof. Giulia Rossi.
 
-🔭  My future research interests now extend to computational drug design, integrating my expertise in enhanced sampling, molecular dynamics simulations, and data analysis to explore new challenges and innovate methods.
+🧪 I perform **atomistic and coarse-grained molecular dynamics simulations** of intrinsically disordered proteins and **membrane systems** using **GROMACS** and the **Martini force field**. I have also developed and validated a novel **collective variable (CV)** in **PLUMED** to quantify alpha-helical and beta-sheet content in coarse-grained simulations of amyloid beta-42. The CV can be adapted to other foldable coarse-grained protein models.
 
-💻📚 I am also eager to explore the use of machine learning techniques to streamline the drug discovery process and boost the research and development efforts in the pharmaceutical sector.
+🔭 My doctoral research focused on classical molecular dynamics and umbrella-sampling simulations to investigate solvation and the folding and binding free energies of intrinsically disordered proteins. My broader interests include computational drug design, enhanced sampling, multiscale modeling, and data analysis.
+
+💻📚 I am also interested in integrating machine-learning techniques with molecular simulations to streamline drug discovery and support research and development in the pharmaceutical sector.
 
 Professional Courses and Certifications
 ======
@@ -76,7 +78,7 @@ From August 2018 to March 2020, I was part of the ASU Outreach Choir, performing
 
 From August 2022 to December 2023, I served as the Chief of Safety for the Amateur Radio Club at ASU (W7ASU), where I oversaw operational safety during activities at one of Arizona State University's oldest Ham Radio clubs.
 
-I designed the new club logo for W7ASU, drawing inspiration from the previous design while incorporating my own creative ideas.
+I designed the new club logo for W7ASU, drawing inspiration from the previous design while incorporating my own creative ideas. [Link](https://students.engineering.asu.edu/clubs/w7asu/)
 
 
 
