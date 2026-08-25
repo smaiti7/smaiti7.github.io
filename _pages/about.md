@@ -2,8 +2,6 @@
 permalink: /
 title: "Hey there, I'm Sthitadhi!👋"
 author_profile: true
-classes:
-  - small-home-title
 redirect_from: 
   - /about/
   - /about.html
