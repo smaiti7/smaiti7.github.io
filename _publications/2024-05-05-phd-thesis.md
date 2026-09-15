@@ -5,12 +5,12 @@ category: theses
 permalink: /publication/2024-PhD-thesis
 date: 2024-05-05
 venue: "Arizona State University"
-paperurl: "/files/SM_PhD_Thesis.pdf"
+paperurl: "http://smaiti7.github.io/files/SM_PhD_Thesis.pdf"
 citation: "Maiti, S. (2024). <i>Solvation Thermodynamics and Free Energy Surfaces of Intrinsically Disordered Proteins in Aqueous Solutions</i>. Ph.D. dissertation, Arizona State University."
 ---
 
-**Doctoral Thesis**
-Sthitadhi Maiti 
+**Doctoral Thesis**  
+Sthitadhi Maiti
 Ph.D. in Computational Chemistry  
 Arizona State University
 
