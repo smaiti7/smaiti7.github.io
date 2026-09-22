@@ -7,7 +7,7 @@ Here we explored the dielectric responses of intrinsically disordered proteins (
 "
 date: 2024-05-14
 venue: 'J. Phys. Chem. Lett.'
-paperurl: "http://smaiti7.github.io/files/paper4.pdf"
+paperurl: "https://smaiti7.github.io/files/paper4.pdf"
 citation: "Sauer, M.; Colburn, T.; Maiti, S.; Heyden, M.; Matyushov, D. &quot;Linear and Nonlinear Dielectric Response of Intrinsically Disordered Proteins.&quot; <i>J. Phys. Chem. Lett</i>. <b>2024</b>, 15, 20, 5420–5427."
 ---
 
